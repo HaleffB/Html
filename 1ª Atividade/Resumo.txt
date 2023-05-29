@@ -1,0 +1,16 @@
+A internet é constituída por canais de comunicação com ou sem fio e elementos de comunicação,
+é a estrutura que possibilita que computadores e outros dispositivos troquem dados entre si.
+
+Um URI pode ser classificado como um localizador (URL) ou um nome (URN), ou ainda como ambos. 
+Um Nome de Recurso Uniforme URN - Uniform Resource Name é como o nome de uma pessoa, 
+enquanto que um Localizador de Recurso Uniforme URL - Uniform Resource Locator é como o seu endereço.
+
+HTTP é um protocolo que permite a obtenção de recursos, como documentos HTML. 
+É a base de qualquer troca de dados na Web e um protocolo cliente-servidor, 
+o que significa que as requisições são iniciadas pelo destinatário, geralmente um navegador da Web.
+
+Os métodos GET e POST, PUT e DELETE são os mais utilizados em aplicações web.
+Um servidor HTTP deve implementar, pelo menos, os métodos GET e HEAD para ser funcional.
+O HTTP funciona em conjunto com algum outro protocolo de transferência, sendo o TCP/IP o mais comum.
+
+O protocolo TCP/IP é uma sigla para Transmission Control Protocol, utilizado no envio e no recebimento de dados na web.
